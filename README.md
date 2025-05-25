@@ -1,4 +1,4 @@
-                                                 AI Assistant CLI (Python + OpenAI API)
+                                          AI Assistant CLI (Python + OpenAI API)
 
 A simple and extendable AI assistant that runs in your terminal using OpenAI’s GPT-4o model. Built with Python, this project showcases how to chat with an LLM and extend its abilities using custom tools (a.k.a. function calling).
 
